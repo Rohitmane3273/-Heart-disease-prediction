@@ -1,2 +1,1 @@
-# -Heart-disease-prediction
- Machine Learning Heart Disease Prediction System 
+# Heart-Disease-Prediction-System-Python-machine-learning
